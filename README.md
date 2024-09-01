@@ -1,6 +1,6 @@
-# Jellyfin Playlist Creator with Spotify Genre Integration
+# Jellyfin Music Video Playlist Creator with Spotify Genre Integration
 
-## This Python script automates the creation of genre-based playlists for your Jellyfin media library. It leverages the Spotify API to intelligently identify the genre of your music files (MP3, M4A, MP4, MOV, WebM) and organizes them into separate playlists within Jellyfin.
+## This Python script automates the creation of genre-based playlists for your Jellyfin media library. It leverages the Spotify API to intelligently identify the genre of your music video files (MP4, MOV, WebM) and organizes them into separate playlists within Jellyfin.
 
 ## Key Features:
 
